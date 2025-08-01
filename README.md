@@ -43,8 +43,8 @@ Sou Cientista de Dados em formação com foco prático em análise, visualizaç�
 
 ## 📫 Contato
 - E-mail: coelhonoam@gmail.com  
-- LinkedIn: [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)  
-- GitHub: [github.com/seuusuario](https://github.com/seuusuario)
+- LinkedIn: [linkedin.com/in/seu-usuario](https://www.linkedin.com/in/noam-coelho-aa6395323)  
+- GitHub: [github.com/seuusuario](https://github.com/noamcoelho)
 
 ---
 
