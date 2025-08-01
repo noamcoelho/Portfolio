@@ -1,11 +1,12 @@
+
 # Portfólio – Noam Geraldo Ismael Coelho
 
-##  Sobre Mim  
+## 💼 Sobre Mim  
 Sou Cientista de Dados em formação com foco prático em análise, visualização e comunicação de dados. Possuo experiência no desenvolvimento de dashboards estratégicos em Power BI, integração com bases SQL, modelagem de dados e aplicação de IA em projetos interdisciplinares nas áreas de Odontologia, Medicina e Finanças. Busco gerar insights claros que impactem a tomada de decisão.
 
 ---
 
-##  Projetos em Destaque
+## 📊 Projetos em Destaque
 
 ### 🔹 Dashboard Acadêmico – Mestrado
 - Criação de dashboard interativo em Power BI para análise de dados de uma pesquisa de mestrado.
@@ -25,7 +26,7 @@ Sou Cientista de Dados em formação com foco prático em análise, visualizaç�
 
 ---
 
-##  Ferramentas e Competências
+## 🛠️ Ferramentas e Competências
 - **Power BI** (DAX, Power Query)
 - **Python** (Pandas, Scikit-learn, Streamlit, Dash)
 - **SQL** e **PostgreSQL**
@@ -34,13 +35,13 @@ Sou Cientista de Dados em formação com foco prático em análise, visualizaç�
 
 ---
 
-##  Formação
+## 🎓 Formação
 **Bacharelado em Ciência da Computação** – CESUPA  
 *2024 – 2027 (Cursando)*
 
 ---
 
-##  Contato
+## 📫 Contato
 - E-mail: coelhonoam@gmail.com  
 - LinkedIn: [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)  
 - GitHub: [github.com/seuusuario](https://github.com/seuusuario)
